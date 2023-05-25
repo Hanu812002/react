@@ -1,0 +1,13 @@
+
+.stagee{
+   background-color: aqua;
+   border-radius: 15px;
+   justify-content: center;
+   padding: 25px;
+   /* display: flex; */
+}
+
+.but{
+    padding-left: 80vw;
+    
+}
